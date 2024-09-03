@@ -1,0 +1,12 @@
+{
+  "name": "tds-back",
+  "version": "1.0.0",
+  "description": "curso SENAI",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./aula_03/script.js"
+  },
+  "author": "Thiago Mazzaroli",
+  "license": "ISC"
+}
